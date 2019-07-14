@@ -10,16 +10,9 @@ Currently just testing. But it will work something like this:
 
 `keyboard.pl --config example.conf`
 
-`### example.conf ###
+#### example.conf
 
-W, A, S, D, L_SHIFT
-	#FF0000
-
-F1-F12
-	#00FF00
-
-etc...
-`
+See the file example.conf too see how I want this to work.
 
 It should (in theory) work on all the keyboards... We'll see :)
 
